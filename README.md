@@ -1,16 +1,13 @@
-### Hi there 👋
+# :pouting_cat: :pouting_cat: :pouting_cat:
 
-<!--
-**GairePravesh/GairePravesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+>> print("Hello, World") 
+```
 
-Here are some ideas to get you started:
+- Python is :heart: 
+- Interested in Cyber Security :smile:
+- BE in Electronics and Communication :flushed:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Awesome Python](python.svg)](https://twitter.com/GairePravesh)
+
+
