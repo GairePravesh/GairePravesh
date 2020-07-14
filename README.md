@@ -8,6 +8,6 @@
 - Interested in Cyber Security :smile:
 - BE in Electronics and Communication :flushed:
 
-[![Awesome Python](python.svg)](https://twitter.com/GairePravesh)
+[![Awesome Python](https://github.com/GairePravesh/GairePravesh/blob/master/python.svg)](https://twitter.com/GairePravesh)
 
 
