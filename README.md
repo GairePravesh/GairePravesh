@@ -10,6 +10,5 @@
 
 [![Awesome Python](https://github.com/GairePravesh/GairePravesh/blob/master/python.svg)](https://twitter.com/GairePravesh)
 
-<script src="https://tryhackme.com/badge/68648"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/PraveshGaire.png" alt="TryHackMe">
 
