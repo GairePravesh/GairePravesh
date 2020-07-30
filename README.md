@@ -10,6 +10,6 @@
 
 [![Awesome Python](https://github.com/GairePravesh/GairePravesh/blob/master/python.svg)](https://twitter.com/GairePravesh)
 
-[![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/PraveshGaire.png)](https://tryhackme.com/p/PraveshGaire)
+[![Try Hack Me](https://github.com/GairePravesh/GairePravesh/blob/master/PraveshGaire.png)](https://tryhackme.com/p/PraveshGaire)
 
 
